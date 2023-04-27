@@ -7,4 +7,4 @@ Montagem no arduino com apenas 1 LED
 
 ## Esquema do projeto
 
-file:///C:/Users/ossen/OneDrive/%C3%81rea%20de%20Trabalho/PROJETOS%20ARDUINO/arduino2_LED/PROJETO.png
+<img width="626" alt="PROJETO" src="https://user-images.githubusercontent.com/130802556/235014171-8132388d-5411-4eaf-80ee-54ad8c22fe63.png">
