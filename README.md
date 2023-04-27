@@ -1,4 +1,4 @@
-# Arduino-1LED
+# Arduino2 LED
 Montagem no arduino com apenas 1 LED
 
 ## Contextualização
