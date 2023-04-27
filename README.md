@@ -1,5 +1,5 @@
 # Arduino-1LED
-##Montagem no arduino com apenas 1 LED
+Montagem no arduino com apenas 1 LED
 
 ## Contextualização
 
@@ -7,4 +7,4 @@
 
 ## Esquema do projeto
 
-![Esquema do projeto](esquema_projeto.jpg)
+file:///C:/Users/ossen/OneDrive/%C3%81rea%20de%20Trabalho/PROJETOS%20ARDUINO/arduino2_LED/PROJETO.png
